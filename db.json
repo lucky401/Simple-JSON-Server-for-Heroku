@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "name": "Anton",
+      "age": 19,
+      "isAdmin": false,
+      "id": 1
+    }
+  ],
+  "books": []
+}
